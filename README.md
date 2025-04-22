@@ -70,3 +70,7 @@ Purpose: Text summarization
 Size: Approximately 1.6GB
 API URL: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
 Source: Developed by Facebook AI, trained on the CNN/Daily Mail dataset.
+
+## Output 
+![WhatsApp Image 2025-04-22 at 21 40 46_1f01713e](https://github.com/user-attachments/assets/8aa9da36-2607-446f-b1a4-fb13517772c8)
+
